@@ -1,3 +1,10 @@
+# Federico Mecchia
+
+# FE 595
+
+# Midterm Project
+
+
 import nltk
 
 nltk.download("vader_lexicon")
