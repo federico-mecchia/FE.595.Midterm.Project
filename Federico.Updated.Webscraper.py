@@ -1,3 +1,10 @@
+# Federico Mecchia
+
+# FE 595
+
+# Midterm Project
+
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
